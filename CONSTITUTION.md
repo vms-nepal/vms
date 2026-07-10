@@ -82,6 +82,14 @@ Temporary trends should never replace long-term thinking.
 
 ---
 
+### 9. Universal Access
+
+Information that benefits society—such as maps, public property records, government rates, and public contacts—should remain openly accessible.
+
+Professional productivity tools may require a subscription in the future, but public information should remain available to everyone.
+
+---
+
 ## Development Philosophy
 
 Before implementing any feature, ask:
