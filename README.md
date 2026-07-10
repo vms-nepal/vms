@@ -4,29 +4,21 @@
 
 VMS (Valuation Management System) is a professional platform for land valuation, surveying, mapping, and property record management in Nepal.
 
-The goal is to create a trusted ecosystem where professionals and the public can access accurate mapping, government information, and property-related tools through a modern web and mobile application.
+Our mission is to build a trusted digital ecosystem where professionals and the public can access accurate maps, government information, property records, and land management tools through a modern web and mobile application.
 
 ---
 
-## Project Status
-
-🚧 Planning Phase
-
-Status
+## Status
 
 🟢 Phase 1 — Foundation
 
-Repository created.
-
-Architecture and feature planning in progress.
-
-First MVP development begins July 2026.
+- Repository created.
+- Project architecture and feature planning in progress.
+- Development of the first MVP begins in July 2026.
 
 ---
 
 ## Founder
-
-Founder
 
 Kiran Neupane
 
@@ -34,4 +26,4 @@ Kiran Neupane
 
 ## Motto
 
-> Mapping Nepal Together.
+> **Mapping Nepal Together.**
