@@ -12,11 +12,21 @@ The goal is to create a trusted ecosystem where professionals and the public can
 
 🚧 Planning Phase
 
-This repository currently contains the project documentation and architecture before application development begins.
+Status
+
+🟢 Phase 1 — Foundation
+
+Repository created.
+
+Architecture and feature planning in progress.
+
+First MVP development begins July 2026.
 
 ---
 
 ## Founder
+
+Founder
 
 Kiran Neupane
 
@@ -24,4 +34,4 @@ Kiran Neupane
 
 ## Motto
 
-*To be decided.*
+> Mapping Nepal Together.
